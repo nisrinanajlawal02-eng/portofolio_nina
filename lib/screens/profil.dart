@@ -43,7 +43,7 @@ class Profil extends StatelessWidget {
                   child: ClipRRect(
                     borderRadius: BorderRadius.circular(60),
                     child: Image.asset(
-                      "assets/images/gambar.jpg",
+                      "assets/images/nina.jpg",
                       height: 120,
                       width: 120,
                       fit: BoxFit.cover,

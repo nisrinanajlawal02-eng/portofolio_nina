@@ -65382,7 +65382,7 @@ A.D0.prototype={
 O(a){return B.Em}}
 A.DW.prototype={
 O(a){var s,r,q,p,o,n,m=this,l=null,k=A.adI(B.aY,4),j=A.d([new A.dx(5,B.je,A.ay(B.c.aj(76.5),B.aY.v()>>>16&255,B.aY.v()>>>8&255,B.aY.v()&255),B.j,20)],t.sq),i=A.nm(60)
-k=A.AC(A.Bd(A.adY(i,new A.tm(A.aq_(l,l,new A.qI("assets/images/gambar.jpg",l,l)),new A.Ya(),120,120,B.wI,l)),l,new A.dL(l,l,k,l,j,l,B.fF),l,l,l,l),l,l)
+k=A.AC(A.Bd(A.adY(i,new A.tm(A.aq_(l,l,new A.qI("assets/images/nina.jpg",l,l)),new A.Ya(),120,120,B.wI,l)),l,new A.dL(l,l,k,l,j,l,B.fF),l,l,l,l),l,l)
 j=A.FO("NIM: 11124064",A.kb(l,l,B.jQ,l,l,l,l,l,l,l,l,16,l,l,B.a_,l,l,!0,l,l,l,l,l,l,l,l))
 i=A.Bd(B.Me,l,new A.dL(A.ay(51,B.aY.v()>>>16&255,B.aY.v()>>>8&255,B.aY.v()&255),l,l,A.nm(20),l,l,B.bi),l,l,B.zv,l)
 s=A.FO("Technical Skills",B.vG)
